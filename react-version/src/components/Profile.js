@@ -4,7 +4,7 @@ function Profile() {
   return (
     <aside>
       <div class="profile">
-        <img class="profile__image" src="./profile-hex.png" />
+        <img class="profile__image" src="profile-hex.png" />
       </div>
       <br />
       <div class="profile__name">

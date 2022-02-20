@@ -1,6 +1,10 @@
 import React from 'react'; // Optional for React v17 & up.
 
 function Profile() {
+  const firstName = 'Amy';
+  const lastName = 'Mansell';
+  const avatar = 'profile-hex.png';
+
   return (
     <aside>
       <div className="profile">
